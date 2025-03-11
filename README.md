@@ -44,7 +44,7 @@ The project follows the Medallion Architecture pattern with three distinct layer
 
 ## Installation
 To run this project locally:
-1. Clone the repository: `git clone https://github.com/yourusername/sql-data-warehouse-project.git`
+1. Clone the repository: `git clone https://github.com/Jovana667/sql-data-warehouse-project.git`
 2. Install [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 3. Install [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
 4. Run the setup scripts in the `/scripts/setup` directory to create the database
